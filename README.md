@@ -1,7 +1,8 @@
 UTILITIES
 =========
 
-Asorted Matlab utilities that I use in my other codes.
+Asorted Matlab utilities that I use in my other codes. This repository will
+grow as I add more of my code to it.
 
 ## Installation
 

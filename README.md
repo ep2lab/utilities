@@ -1,6 +1,8 @@
 UTILITIES
 =========
 
+[![DOI](https://zenodo.org/badge/85017610.svg)](https://zenodo.org/badge/latestdoi/85017610)
+
 Asorted Matlab utilities that I use in my other codes. This repository will
 grow as I add more of my code to it.
 

@@ -36,8 +36,9 @@ for i = 1:n_iter
     x = x + dx;        
     fx = f(x); 
     if norm(fx) < tol && ((norm(x) < tol && norm(dx) < tol) || norm(dx)/norm(x) < tol) % avoids problems for x near 0
-        if i>5; i; end;
         return;
     end
 end    
-error('newton: reached n_iter iterations without convergence');
+if n_iter > 1 % only warn if more than a single step was requested
+    error(['newton: reached n_iter = ',num2str(n_iter),' iterations without convergence']);
+end

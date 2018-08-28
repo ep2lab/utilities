@@ -8,7 +8,7 @@ Asorted Matlab utilities that EP2lab uses in their other codes.
 ## Installation
 
 Installation requires simply that you 
-[download UTILITIES](https://github.com/mariomerinomartinez/utilities/archive/master.zip) 
+[download UTILITIES](https://github.com/ep2lab/utilities/archive/master.zip) 
 and add the base directory 
 (the one that contains the `+utilities` directory) to your Matlab path.
 

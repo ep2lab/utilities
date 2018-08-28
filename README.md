@@ -3,8 +3,7 @@ UTILITIES
 
 [![DOI](https://zenodo.org/badge/85017610.svg)](https://zenodo.org/badge/latestdoi/85017610)
 
-Asorted Matlab utilities that I use in my other codes. This repository will
-grow as I add more of my code to it.
+Asorted Matlab utilities that EP2lab uses in their other codes.
 
 ## Installation
 
@@ -32,8 +31,10 @@ subdirectory.
 
 If you have any comments for improvement or 
 are interested in contributing to the continued 
-development of this or any of my other codes, you can contact me 
-through my [personal website](http://mariomerino.uc3m.es/).
+development of this or any of my other codes, you can contact us
+through our [website](http://ep2.uc3m.es/). 
+
+For updates and news, follow us on Twitter: @ep2lab.
   
 ## License
 

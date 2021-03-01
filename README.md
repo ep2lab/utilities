@@ -3,7 +3,7 @@ UTILITIES
 
 [![DOI](https://zenodo.org/badge/85017610.svg)](https://zenodo.org/badge/latestdoi/85017610)
 
-Asorted Matlab utilities that EP2lab uses in their other codes.
+Assorted Matlab utilities that EP2lab uses in their other codes.
 
 ## Installation
 
